@@ -1,0 +1,6 @@
+#!/bin/bash
+
+domain=$(sudo yunohost app setting 243 domain)
+
+sudo rm -rf /var/www/243
+sudo rm -f /etc/nginx/conf.d/$domain.d/243.conf
