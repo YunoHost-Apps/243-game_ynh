@@ -30,3 +30,17 @@ Clone of 2048 game. You need to reach 243.
  * Report a bug: https://github.com/YunoHost-Apps/243_ynh/issues
  * Upstream app repository: https://github.com/hgentry/81
  * YunoHost website: https://yunohost.org/
+
+---
+
+Developers info
+----------------
+
+Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/243_ynh/tree/testing).
+
+To try the testing branch, please proceed like that.
+```
+sudo yunohost app install https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
+or
+sudo yunohost app upgrade 243 -u https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
+```
