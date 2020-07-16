@@ -5,7 +5,7 @@
 
 *[Read this readme in english.](./README.md)* 
 
-> *Ce package vous permet d’installer 243 rapidement et simplement sur un serveur Yunohost.  
+> *Ce package vous permet d’installer 243 rapidement et simplement sur un serveur YunoHost.  
 Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
 ## Vue d’ensemble
@@ -22,7 +22,7 @@ Clone du jeu 2048. Il vous faut atteindre 243.
 
 #### Architectures supportées
 
-* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/243%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/243/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/243%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/243/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/243%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/243/)
 
 ## Liens
@@ -33,8 +33,7 @@ Clone du jeu 2048. Il vous faut atteindre 243.
 
 ---
 
-Informations pour les développeurs
-----------------
+## Informations pour les développeurs
 
 Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/243_ynh/tree/testing).
 
