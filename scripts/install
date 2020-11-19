@@ -12,7 +12,6 @@ source /usr/share/yunohost/helpers
 # MANAGE SCRIPT FAILURE
 #=================================================
 
-# Exit if an error occurs during the execution of the script
 ynh_abort_if_errors
 
 #=================================================
@@ -62,9 +61,9 @@ ynh_setup_source --dest_dir="$final_path"
 #=================================================
 # NGINX CONFIGURATION
 #=================================================
-ynh_script_progression --message="Configuring Nginx web server..." --weight=2
+ynh_script_progression --message="Configuring NGINX web server..." --weight=2
 
-# Create a dedicated nginx config
+# Create a dedicated NGINX config
 ynh_add_nginx_config
 
 #=================================================
@@ -87,7 +86,7 @@ ynh_script_progression --message="Configuring SSOwat..." --weight=1
 #=================================================
 # RELOAD NGINX
 #=================================================
-ynh_script_progression --message="Reloading Nginx web server..." --weight=1
+ynh_script_progression --message="Reloading NGINX web server..." --weight=1
 
 ynh_systemd_action --service_name=nginx --action=reload
 

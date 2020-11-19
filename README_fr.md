@@ -33,8 +33,7 @@ Clone du jeu 2048. Il vous faut atteindre 243.
 
 ---
 
-Informations pour les développeurs
-----------------
+## Informations pour les développeurs
 
 Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/243_ynh/tree/testing).
 
