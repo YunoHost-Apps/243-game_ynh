@@ -11,7 +11,7 @@
     "license": "MIT",
     "maintainer": {
         "name": "eric_G",
-        "email": "ericgaspar@free.fr"
+        "email": ""
     },
     "requirements": {
         "yunohost": ">= 4.0.0"
