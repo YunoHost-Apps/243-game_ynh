@@ -1,7 +1,7 @@
 # 243 pour YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
-[![Installer 243 avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=243)
+[![Installer 243 avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243)
 
 *[Read this readme in english.](./README.md)* 
 
