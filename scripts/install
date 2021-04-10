@@ -46,14 +46,6 @@ ynh_app_setting_set --app=$app --key=domain --value=$domain
 ynh_app_setting_set --app=$app --key=path   --value=$path_url
 
 #=================================================
-# CREATE DEDICATED USER
-#=================================================
-ynh_script_progression --message="Configuring system user..." --weight=2
-
-# Create a system user
-ynh_system_user_create --username=$app --home_dir="$final_path"
-
-#=================================================
 # STANDARD MODIFICATIONS
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
@@ -80,7 +72,7 @@ ynh_add_nginx_config
 #=================================================
 
 # Set permissions to app files
-chown -R $app: $final_path
+chown -R root: $final_path
 
 #=================================================
 # SETUP SSOWAT
