@@ -46,14 +46,6 @@ ynh_app_setting_set --app=$app --key=domain --value=$domain
 ynh_app_setting_set --app=$app --key=path   --value=$path_url
 
 #=================================================
-# CREATE DEDICATED USER
-#=================================================
-ynh_script_progression --message="Configuring system user..." --weight=1
-
-# Create a system user
-ynh_system_user_create --username=$app --home_dir="$final_path"
-
-#=================================================
 # STANDARD MODIFICATIONS
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
@@ -65,9 +57,7 @@ ynh_app_setting_set --app=$app --key=final_path --value=$final_path
 # Download, check integrity, uncompress and patch the source from app.src
 ynh_setup_source --dest_dir="$final_path"
 
-chmod 750 "$final_path"
-chmod -R o-rwx "$final_path"
-chown -R $app:www-data "$final_path"
+chown -R root: "$final_path"
 
 #=================================================
 # NGINX CONFIGURATION
