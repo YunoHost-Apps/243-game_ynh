@@ -1,38 +1,32 @@
 # 243 pour YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
+[![Niveau d'intégration](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
 [![Installer 243 avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243)
 
-*[Read this readme in english.](./README.md)* 
+*[Read this readme in english.](./README.md)*
+*[Lire ce readme en français.](./README_fr.md)*
 
-> *Ce package vous permet d’installer 243 rapidement et simplement sur un serveur YunoHost.  
-Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
+> *Ce package vous permet d'installer 243 rapidement et simplement sur un serveur YunoHost.
+Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
 
-## Vue d’ensemble
+## Vue d'ensemble
 
-Clone du jeu 2048. Il vous faut atteindre 243.
+Clone du jeu 2048
 
-## Captures d’écran
+**Version incluse :** 1.0~ynh5
 
-![](Screenshot-243.jpg)
+**Démo :** https://hgentry.github.io/81/
 
-## Démo
+## Captures d'écran
 
-* [Démo officielle](https://hgentry.github.io/81/)
+![](./doc/screenshots/Screenshot-243.jpg)
 
-#### Architectures supportées
+## Documentations et ressources
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/243.svg)](https://ci-apps.yunohost.org/ci/apps/243/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/243.svg)](https://ci-apps-arm.yunohost.org/ci/apps/243/)
-
-
-## Liens
-
- * Signaler un bug : https://github.com/YunoHost-Apps/243_ynh/issues
- * Dépôt de l’application principale : https://github.com/hgentry/81
- * Site web YunoHost : https://yunohost.org/
-
----
+* Site officiel de l'app : https://github.com/hgentry/81/
+* Dépôt de code officiel de l'app : https://github.com/hgentry/81
+* Documentation YunoHost pour cette app : https://yunohost.org/app_243
+* Signaler un bug : https://github.com/YunoHost-Apps/243_ynh/issues
 
 ## Informations pour les développeurs
 
@@ -44,3 +38,5 @@ sudo yunohost app install https://github.com/YunoHost-Apps/243_ynh/tree/testing 
 ou
 sudo yunohost app upgrade 243 -u https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
 ```
+
+**Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps
