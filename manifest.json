@@ -6,7 +6,7 @@
         "en": "2048 game clone",
         "fr": "Clone du jeu 2048"
     },
-    "version": "1.0~ynh5",
+    "version": "1.0~ynh6",
     "url": "https://github.com/hgentry/81/",
     "upstream": {
         "license": "MIT",
@@ -27,7 +27,7 @@
         "nginx"
     ],
     "arguments": {
-        "install" : [
+        "install": [
             {
                 "name": "domain",
                 "type": "domain"
@@ -41,9 +41,9 @@
             {
                 "name": "is_public",
                 "type": "boolean",
-                 "help": {
-                        "en": "If enabled, 243 will be accessible by people who doesn’t have an account. This can be changed later via the webadmin.",
-                        "fr": "Si cette case est cochée, 243 sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+                "help": {
+                    "en": "If enabled, 243 will be accessible by people who doesn’t have an account. This can be changed later via the webadmin.",
+                    "fr": "Si cette case est cochée, 243 sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
                 },
                 "default": true
             }
