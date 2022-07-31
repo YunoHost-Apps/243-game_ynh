@@ -44,7 +44,7 @@ test ! -d $final_path \
 ynh_script_progression --message="Recreating the dedicated system user..."
 
 # Create the dedicated user (if not existing)
-ynh_system_user_create --username=$app --home_dir="$final_path"
+ynh_system_user_create --username=ynh_$app --home_dir="$final_path"
 
 #=================================================
 # RESTORE THE APP MAIN DIR
