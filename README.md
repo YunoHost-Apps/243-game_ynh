@@ -20,6 +20,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 **Shipped version:** 1.0~ynh6
 
+
 **Demo:** https://hgentry.github.io/81/
 
 ## Screenshots

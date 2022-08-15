@@ -18,7 +18,8 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 Clone du jeu 2048
 
 
-**Version incluse :** 1.0~ynh6
+**Version incluse :** 1.0~ynh6
+
 
 **Démo :** https://hgentry.github.io/81/
 
