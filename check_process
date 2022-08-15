@@ -1,9 +1,8 @@
 ;; Test complet
-	auto_remove=1
 	; Manifest
 		domain="domain.tld"
 		path="/path"
-		is_public="Yes"
+		is_public=1
 	; Checks
 		pkg_linter=1
 		setup_sub_dir=1
@@ -12,7 +11,12 @@
 		setup_private=1
 		setup_public=1
 		upgrade=1
+		# 1.0~ynh5
+		upgrade=1	from_commit=c253a238d18ee8a2a589cc8ee3bcfec5aac2e14e
 		backup_restore=1
 		multi_instance=1
+		port_already_use=0
 		change_url=1
-	
+;;; Options
+Email=
+Notification=none
