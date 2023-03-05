@@ -5,9 +5,9 @@ It shall NOT be edited by hand.
 
 # 243 pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/deux-cent-quarante-trois.svg)](https://dash.yunohost.org/appci/app/deux-cent-quarante-trois) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/deux-cent-quarante-trois.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/deux-cent-quarante-trois.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)
 
-[![Installer 243 avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=deux-cent-quarante-trois)
+[![Installer 243 avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243)
 
 *[Read this readme in english.](./README.md)*
 
@@ -30,19 +30,19 @@ Clone du jeu 2048
 ## Documentations et ressources
 
 * Dépôt de code officiel de l’app : <https://github.com/hgentry/81>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_deux-cent-quarante-trois>
-* Signaler un bug : <https://github.com/YunoHost-Apps/deux-cent-quarante-trois_ynh/issues>
+* Documentation YunoHost pour cette app : <https://yunohost.org/app_243>
+* Signaler un bug : <https://github.com/YunoHost-Apps/243_ynh/issues>
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/deux-cent-quarante-trois_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/243_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/deux-cent-quarante-trois_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade deux-cent-quarante-trois -u https://github.com/YunoHost-Apps/deux-cent-quarante-trois_ynh/tree/testing --debug
+sudo yunohost app upgrade 243 -u https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
 ```
 
 **Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
