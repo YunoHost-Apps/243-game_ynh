@@ -29,7 +29,6 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Documentation and resources
 
-* Official app website: <https://github.com/hgentry/81/>
 * Upstream app code repository: <https://github.com/hgentry/81>
 * YunoHost documentation for this app: <https://yunohost.org/app_243>
 * Report a bug: <https://github.com/YunoHost-Apps/243_ynh/issues>
