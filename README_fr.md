@@ -29,7 +29,6 @@ Clone du jeu 2048
 
 ## Documentations et ressources
 
-* Site officiel de l’app : <https://github.com/hgentry/81/>
 * Dépôt de code officiel de l’app : <https://github.com/hgentry/81>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_243>
 * Signaler un bug : <https://github.com/YunoHost-Apps/243_ynh/issues>
