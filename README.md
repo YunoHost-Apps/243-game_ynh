@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # 243 for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![Working status](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![Working status](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)
+
 [![Install 243 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -19,7 +20,6 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 
 **Shipped version:** 1.0~ynh6
-
 
 **Demo:** https://hgentry.github.io/81/
 
