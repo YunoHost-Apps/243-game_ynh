@@ -46,7 +46,7 @@ ram.runtime = "50M"
         url = "https://github.com/hgentry/81/archive/gh-pages.tar.gz"
         sha256 = "c7d2052999ae4d2e0c5fd5ff1dd6bfb794b7f2bc5caa63f4fbc5e195509c00b9"
 
-    [resources.system_user]
+    #[resources.system_user]
 
     [resources.install_dir]
 
