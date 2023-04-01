@@ -1,6 +1,6 @@
 packaging_format = 2
 
-id = "243game"
+id = "243-game"
 name = "243"
 description.en = "2048 game clone"
 description.fr = "Clone du jeu 2048"
