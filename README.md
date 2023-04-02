@@ -5,8 +5,9 @@ It shall NOT be edited by hand.
 
 # 243 for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/243.svg)](https://dash.yunohost.org/appci/app/243) ![Working status](https://ci-apps.yunohost.org/ci/badges/243.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
-[![Install 243 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243)
+[![Integration level](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![Working status](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+
+[![Install 243 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
@@ -20,7 +21,6 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 **Shipped version:** 1.0~ynh6
 
-
 **Demo:** https://hgentry.github.io/81/
 
 ## Screenshots
@@ -29,21 +29,20 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Documentation and resources
 
-* Official app website: <https://github.com/hgentry/81/>
 * Upstream app code repository: <https://github.com/hgentry/81>
-* YunoHost documentation for this app: <https://yunohost.org/app_243>
-* Report a bug: <https://github.com/YunoHost-Apps/243_ynh/issues>
+* YunoHost documentation for this app: <https://yunohost.org/app_243-game>
+* Report a bug: <https://github.com/YunoHost-Apps/243-game_ynh/issues>
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/243_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/243-game_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/243-game_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade 243 -u https://github.com/YunoHost-Apps/243_ynh/tree/testing --debug
+sudo yunohost app upgrade 243-game -u https://github.com/YunoHost-Apps/243-game_ynh/tree/testing --debug
 ```
 
 **More info regarding app packaging:** <https://yunohost.org/packaging_apps>
