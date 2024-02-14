@@ -30,7 +30,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 ## Documentation and resources
 
 * Upstream app code repository: <https://github.com/hgentry/81>
-* YunoHost documentation for this app: <https://yunohost.org/app_243-game>
+* YunoHost Store: <https://apps.yunohost.org/app/243-game>
 * Report a bug: <https://github.com/YunoHost-Apps/243-game_ynh/issues>
 
 ## Developer info
