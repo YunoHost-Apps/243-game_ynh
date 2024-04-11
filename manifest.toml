@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
 packaging_format = 2
 
 id = "243-game"
@@ -5,7 +7,7 @@ name = "243"
 description.en = "2048 game clone"
 description.fr = "Clone du jeu 2048"
 
-version = "1.0~ynh6"
+version = "1.0~ynh7"
 
 maintainers = ["eric_G"]
 
