@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 243
+# YunoHost 上的 243
 
 [![集成程度](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![工作状态](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
 
