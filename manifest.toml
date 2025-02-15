@@ -9,7 +9,7 @@ description.fr = "Clone du jeu 2048"
 
 version = "1.0~ynh7"
 
-maintainers = ["eric_G"]
+maintainers = []
 
 [upstream]
 license = "MIT"
