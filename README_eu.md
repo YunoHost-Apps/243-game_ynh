@@ -21,7 +21,7 @@ EZ editatu eskuz.
 2048 game clone
 
 
-**Paketatutako bertsioa:** 1.0~ynh7
+**Paketatutako bertsioa:** 1.0~ynh8
 
 **Demoa:** <https://hgentry.github.io/81/>
 

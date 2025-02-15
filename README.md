@@ -21,7 +21,7 @@ It shall NOT be edited by hand.
 2048 game clone
 
 
-**Shipped version:** 1.0~ynh7
+**Shipped version:** 1.0~ynh8
 
 **Demo:** <https://hgentry.github.io/81/>
 

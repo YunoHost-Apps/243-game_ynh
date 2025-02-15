@@ -21,7 +21,7 @@
 2048 game clone
 
 
-**分发版本：** 1.0~ynh7
+**分发版本：** 1.0~ynh8
 
 **演示：** <https://hgentry.github.io/81/>
 
