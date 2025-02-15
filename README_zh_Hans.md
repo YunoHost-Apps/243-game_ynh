@@ -5,7 +5,9 @@
 
 # YunoHost 上的 243
 
-[![集成程度](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![工作状态](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/243-game)](https://ci-apps.yunohost.org/ci/apps/243-game/)
+![工作状态](https://apps.yunohost.org/badge/state/243-game)
+![维护状态](https://apps.yunohost.org/badge/maintained/243-game)
 
 [![使用 YunoHost 安装 243](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 

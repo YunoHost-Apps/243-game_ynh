@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # 243 para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/243-game)](https://ci-apps.yunohost.org/ci/apps/243-game/)
+![Estado funcional](https://apps.yunohost.org/badge/state/243-game)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/243-game)
 
 [![Instalar 243 con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 
@@ -35,7 +37,7 @@ No se debe editar a mano.
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/243-game_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/243-game_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
