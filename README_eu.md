@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # 243 YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/243-game)](https://ci-apps.yunohost.org/ci/apps/243-game/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/243-game)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/243-game)
 
 [![Instalatu 243 YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 
@@ -19,7 +21,7 @@ EZ editatu eskuz.
 2048 game clone
 
 
-**Paketatutako bertsioa:** 1.0~ynh7
+**Paketatutako bertsioa:** 1.0~ynh8
 
 **Demoa:** <https://hgentry.github.io/81/>
 

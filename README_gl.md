@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # 243 para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/243-game)](https://ci-apps.yunohost.org/ci/apps/243-game/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/243-game)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/243-game)
 
 [![Instalar 243 con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 
@@ -19,7 +21,7 @@ NON debe editarse manualmente.
 2048 game clone
 
 
-**Versión proporcionada:** 1.0~ynh7
+**Versión proporcionada:** 1.0~ynh8
 
 **Demo:** <https://hgentry.github.io/81/>
 
