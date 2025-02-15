@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # 243 for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/243-game.svg)](https://dash.yunohost.org/appci/app/243-game) ![Working status](https://ci-apps.yunohost.org/ci/badges/243-game.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/243-game.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/243-game)](https://ci-apps.yunohost.org/ci/apps/243-game/)
+![Working status](https://apps.yunohost.org/badge/state/243-game)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/243-game)
 
 [![Install 243 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=243-game)
 
