@@ -17,7 +17,7 @@ demo = "https://hgentry.github.io/81/"
 code = "https://github.com/hgentry/81"
 
 [integration]
-yunohost = ">= 12.1.38"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
